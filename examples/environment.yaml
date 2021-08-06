@@ -1,0 +1,13 @@
+name: hopfield-layers
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python>=3.8
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - pytorch=1.7.0
+  - torchvision
